@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestBrowserstack", "NUnitTestBrowserstack\NUnitTestBrowserstack.csproj", "{DACA1BE0-EC58-4075-A336-28814F8C5FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACA1BE0-EC58-4075-A336-28814F8C5FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACA1BE0-EC58-4075-A336-28814F8C5FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACA1BE0-EC58-4075-A336-28814F8C5FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACA1BE0-EC58-4075-A336-28814F8C5FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04172AC3-5D51-4E21-AF68-C99FC7153C31}
+	EndGlobalSection
+EndGlobal
